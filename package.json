@@ -8,7 +8,7 @@
     "pdf": "gulp pdf",
     "dev": "gulp dev",
     "deploy":
-      "gulp pdf && gulp deploy && git add -A && git commit -m 'update resume' && git push origin master"
+      "gulp pdf && gulp deploy && git add -A && git commit -m 'update resume' && git push origin my-resume"
   },
   "engines": {
     "node": ">=8.9.0"
